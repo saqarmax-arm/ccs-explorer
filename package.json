@@ -1,23 +1,23 @@
 {
-  "name": "qtum-explorer",
-  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the qtum network and build your own services with it.",
+  "name": "ccs-explorer",
+  "description": "An open-source frontend for the Insight API. The Insight API provides you with a convenient, powerful and simple way to query and broadcast data on the ccs network and build your own services with it.",
   "version": "0.11.4",
-  "repository": "git@github.com:qtumproject/qtum-explorer.git",
+  "repository": "git@github.com:saqarmax-arm/ccs-explorer.git",
   "contributors": [],
   "bugs": {
-    "url": "https://github.com/qtumproject/qtum-explorer/issues"
+    "url": "https://github.com/saqarmax-arm/ccs-explorer/issues"
   },
-  "homepage": "https://github.com/qtumproject/qtum-explorer",
+  "homepage": "https://github.com/saqarmax-arm/ccs-explorer",
   "license": "MIT",
   "keywords": [
     "insight",
     "blockchain",
     "blockexplorer",
-    "qtum",
-    "qtumcore",
+    "ccs",
+    "ccscore",
     "front-end"
   ],
-  "qtumcoreNode": "qtumcore-node",
+  "ccscoreNode": "ccscore-node",
   "dependencies": {
   },
   "devDependencies": {
