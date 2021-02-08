@@ -47,7 +47,7 @@ A CCS blockchain explorer web application service for [CcScore Node](https://git
         "ccs-explorer": {
           "apiPrefix": "ccs-insight-api",
           "routePrefix": "ccs-explorer",
-          "nodemapLink": "https://ccs.org/en/nodemap"
+          "nodemapLink": "https://ccsblockchain.com/en/nodemap"
        },
        "ccs-insight-api": {
          "routePrefix": "ccs-insight-api",
